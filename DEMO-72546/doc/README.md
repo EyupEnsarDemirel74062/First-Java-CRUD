@@ -22,3 +22,5 @@ The assignment also requires each student to have their own public repository an
 
 Commit the real screenshots in this directory before submission. On Platon use Online text and submit the final public repository link.
 ![Uploading Screenshot 2026-10-19 203729.png…]()
+<img width="1730" height="967" alt="Screenshot 2026-10-19 195436" src="https://github.com/user-attachments/assets/4a7100e8-940d-4784-9437-b4dcb812ef24" />
+<img width="1727" height="875" alt="Screenshot 2026-10-19 201151" src="https://github.com/user-attachments/assets/b0e4589a-2053-4889-8d19-dc58f3526e1e" />
